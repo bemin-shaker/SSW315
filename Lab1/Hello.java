@@ -1,6 +1,6 @@
-/** First Java program to say Hello*/
+
 public class Hello {   
-    // Save as "Hello.java" under "d:\myProject"
+  
     public static void main(String[] args) {
         String a = "Wow";
         String b = a;
