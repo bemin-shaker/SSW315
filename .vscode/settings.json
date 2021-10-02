@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "Lab1",
         "HW1",
-        "Lab1"
+        "HW2/src"
     ]
 }
