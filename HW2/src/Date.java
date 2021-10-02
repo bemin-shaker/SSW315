@@ -1,7 +1,5 @@
 /* Date.java */
 
-import java.io.*;
-
 class Date {
 
   /* Put your private data fields here. */
